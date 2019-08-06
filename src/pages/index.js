@@ -7,7 +7,7 @@ import Status from "../components/Status"
 const Index = () => (
   <Layout>
     <Status />
-    <View title="Simple Authentication Example(!)">
+    <View title="Simple Authentication Example">
       <p>
         This is a simple example of creating dynamic apps with Gatsby that
         require user authentication. It uses concepts from the
